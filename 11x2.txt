@@ -1,0 +1,34 @@
+DIscovery of de6nItIve mathematical equations that govern the behavlor
+of matter and even mastery of techniques 5or solvIng them If we ever
+achIeved it would by no means complete the program of understandIng
+Nature through analysis and synthesis we would stIll need to address
+the problem of selectIon How among all possible solutIons do those that
+actually descrIbe realIty get selected out7
+NIels Bohr de6ned a profound truth as a truth whose opposlte Is also
+a (profound) truth In that spirIt I d lIke to dehne a deep questIon as a
+question that doesn t make clear sense untIl aaer you ve answered 1t Re
+selectIon problem Is a deep question In posIng it we take It for granted
+that we can make a dIstinctIon between what is posslble and what is
+real On the face of it that sounds pretty unscIentIhc the goal of scIence
+ls to understand the real world and only the real world is possible I But
+In practice a clear and useful dIstinct1on does emerge
+A famous episode from the early hIstory of scIence wIll setve to IllumI
+nate the Issues In Iohannes Kepler s hrst attempt to understand the solar
+system he postu1ated that the relatIve sIzes of planetary orbits are deter
+mIned as a system of concentric sphetes centered at the sun inscribed
+and cIrcumscribed around a sequence of the hve regular (Platonic) solIds
+To Kepler the fact that there were sIx planets provIded an Impressive
+numerIcal conhrmatIon of hIs idea In lIght of latet developments Kepler s
+model rates a bemused smIle but purely as a logical matter it might have
+been rIght And if such a model had prov1ded the ultImate account of the
+solar system no useful dIstInctIon would have developed between possI
+ble solutlons of its governIng equations and the solutIon actually tealIzed
+Indeed there wouldn t be equatIons to solve as such Just the solution
+petfect in its own terms and incapable of further analysIs
+Kepler s geometrIc model was soon made obsolete by the development
+of classical celestIal mechanIcs beginnIng with Kepler s own dIscoveries
+and culmInatIng 1n Isaac Newton s world system Rat framework gIves
+a clean separation between the govetnIng laws and their specIhc realiza
+uons Re equations of classIcal mechanIcs can bc solved for any number
+of Planets wIth any initial assignment of posItions and velocities so In
+xe phystcs of 1700 as In the physIcs we use today It was easy to
