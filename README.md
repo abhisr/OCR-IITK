@@ -29,5 +29,10 @@ TIME
 
 
 Limitations.
-1. Its can't work with more skew cases (More skew than height of one letter across one line.
+1. Its can't work with more skew cases (More skew than height of one letter across one line).
 one may get letter mixing in such a case.
+2. It may not be able to separate joint letters and hence may result in single wrong letter.For example fi may be read as H if both are joint.
+
+
+
+
