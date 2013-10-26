@@ -115,7 +115,7 @@ key = ['1';'2';'3';'4';'5';'6';'7';'8';'9';'A';'B';'C';'D';'E';'F';'G';...
 file = input('Enter the name of text file\n example aaa.txt\n','s');
 
 fileID = fopen(file,'w');
-for i = 1:length(p)
+for i = 1:size(p,1)
     if p(i,2)==0
         fprintf(fileID,'%1s',key(p(i,1)));
     elseif p(i,2) == 1
